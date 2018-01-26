@@ -1,3 +1,3 @@
 #PCFB 2018
 
-[Foto](horse.jpeg)
+![Foto](horse.jpeg)

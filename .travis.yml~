@@ -2,7 +2,7 @@ install:
   - sudo pip install proselint
 
 script: 
-  - proselint README.md
+  - proselint my_prose.md
 
 install:
   - sudo apt-get install npm
